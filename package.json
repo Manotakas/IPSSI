@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Adilson-kina/IPSSI.git"
+    "url": "git+https://github.com/Manotakas/IPSSI"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Adilson-kina/IPSSI/issues"
+    "url": "https://github.com/Manotakas/IPSSI/issues"
   },
-  "homepage": "https://github.com/Adilson-kina/IPSSI#readme",
+  "homepage": "https://github.com/Manotakas/IPSSI#readme",
   "dependencies": {
     "express": "^5.1.0",
     "mongose": "^0.0.2-security",
